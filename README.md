@@ -1,4 +1,4 @@
-## Hi there 👋
+## My name is Johnny, and I have built a career in the hotel industry. Currently, I am pursuing a career shift into cybersecurity and programming languages.
 
 <!--
 **Johnny123119/Johnny123119** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
